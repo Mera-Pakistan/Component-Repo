@@ -1,4 +1,5 @@
 
+
 const submitBtn = document.querySelector(".submit-btn");
 
 const headingOne = document.querySelector("h1");
@@ -19,3 +20,4 @@ submitBtn.addEventListener("click" , () =>{
     randombgChange(r , g , b);
 
 });
+
